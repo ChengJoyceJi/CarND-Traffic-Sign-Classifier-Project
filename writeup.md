@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [grey_scale_and_normalization]: ./output_images/grey_scale_and_normalization.png
 [rotate_image]: ./output_images/rotate_image.png
 [histogram2]: ./output_images/histogram2.png
-[new_images.png]: ./output_images/new_images.png
+[new_images]: ./output_images/new_images.png
 
 [Rubric Points](https://review.udacity.com/#!/rubrics/481/view)
 
